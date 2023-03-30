@@ -7,23 +7,23 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* removed Class:header on index, replaced with header element and matched CSS */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/* removed Class:header h1 on index, replaced with h1 element and mathced CSS */
 h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/* removed Class:seo and changed to id tag, pulled out seo from class: header h1 tag */
 #seo {
     color: #d9dcd6;
 }
-
+/* removed several class: header+ etc tags and consolidated styling into one, ul element*/
 ul {
     list-style-type: none;
     float: right;
@@ -33,7 +33,7 @@ ul {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
+/* pulled li from class: header div ul li and placed on its own */
 li {
     display: inline-block;
     margin-left: 25px;
@@ -48,7 +48,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* no changes to class: hero tag */
 .hero {
     height: 800px;
     width: 100%;
@@ -57,32 +57,32 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* no changes to class: float-left tag */
 .float-left {
     float: left;
     margin-right: 25px;
 }
-
+/* only one instance of class: float-right tag so changed to id tag */
 #float-right {
     float: right;
     margin-left: 25px;
 }
-
+/* pulled out of class: content tag and wrapped in main element. Added height: 100% */
 main {
     width: 75%;
     height: 100%;
     display: inline-block;
     margin-left: 20px;
 }
-
+/* Removed 3 class: Benefit+ with the same styling and combined under main h2 element tag */
 main h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* removed 3 class: benefit-img with the same styling and combined under main img element */
 main img {    
     max-height: 200px;}
-
+/* removed 3 specific Class tags under the main element with the same styling and combined under main element */
 main section {   
     margin-bottom: 20px;
     padding: 50px;
@@ -91,7 +91,7 @@ main section {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* removed class: benefits tag and replaced with aside element */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -102,30 +102,30 @@ aside {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* removed 3 class: benefit tags that were the same and consolidated into aside section */
 aside section {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/* removed 3 class: benefit img tag and consolidated under aside img element */
 aside img { 
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* removed class: benefit h3 and combined under h3 element */
 h3 { 
      margin-bottom: 10px;
     text-align: center;
 }
-
+/* removed class: footer and replaced with footer element */
 footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
+/* removed class: footer h2 and replaced with footer h2 element */
 footer h2 {
     font-size: 20px;
 
