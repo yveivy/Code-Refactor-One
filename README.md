@@ -15,5 +15,4 @@ To increase accesibility, alt attributes were added to images.
 ### Site Screenshot
 ](https://github.com/yveivy/Code-Refractor-One/blob/Main/assets/HoriseonSiteScreenshot.png)
 #### Deployed Application URL
-
-
+](https://yveivy.github.io/Code-Refactor-One/#search-engine-optimization)
