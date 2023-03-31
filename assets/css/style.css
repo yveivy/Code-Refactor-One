@@ -103,8 +103,9 @@ aside {
     background-color: #2589bd;
 }
 /* removed 3 class: benefit tags that were the same and consolidated into aside section */
+/* increased margin-bottom to fill space */
 aside section {
-    margin-bottom: 32px;
+    margin-bottom: 52px;
     color: #ffffff;
 }
 /* removed 3 class: benefit img tag and consolidated under aside img element */
