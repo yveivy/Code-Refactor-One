@@ -13,8 +13,7 @@ My goal for the project is to improve the codebase overall, making it easier to 
 To increase accesibility, alt attributes were added to images. 
 
 ### Site Screenshot
-
-
+](https://github.com/yveivy/Code-Refractor-One/blob/Main/assets/HoriseonSiteScreenshot.png)
 #### Deployed Application URL
 
 
