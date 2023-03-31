@@ -13,6 +13,11 @@ My goal for the project is to improve the codebase overall, making it easier to 
 To increase accesibility, alt attributes were added to images. 
 
 ### Site Screenshot
-](https://github.com/yveivy/Code-Refractor-One/blob/Main/assets/HoriseonSiteScreenshot.png)
+<img
+  src="https://github.com/yveivy/Code-Refactor-One/blob/Main/assets/HoriseonSiteScreenshot.png"
+  alt="Horiseon-Website-Screenshot"
+  title="Horiseon Website"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+
 #### Deployed Application URL
 ](https://yveivy.github.io/Code-Refactor-One/#search-engine-optimization)
