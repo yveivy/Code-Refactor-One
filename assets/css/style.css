@@ -14,6 +14,14 @@ header {
     background-color: #2a607c;
     color: #ffffff;
 }
+
+header nav {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
 /* removed Class:header h1 on index, replaced with h1 element and mathced CSS */
 h1 {
     display: inline-block;
